@@ -6,3 +6,11 @@ List Nama Kelompok Projek:
 List Projek yang ingin dibuat :
 - Projek 
 #isi sendiri
+
+#Testing Tasya masuk:
+List Projek yang ingin dibuat :
+1. Website toko online
+.
+.
+.
+dll
